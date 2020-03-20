@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E93E86E223FF7AE500D3125D"
-               BuildableName = "CortexV2-Example-Swift.app"
-               BlueprintName = "CortexV2-Example-Swift"
-               ReferencedContainer = "container:CortexV2-Example-Swift.xcodeproj">
+               BlueprintIdentifier = "E99107B72403AE8F004F3892"
+               BuildableName = "CortexV2-Emotiv-ObjC.app"
+               BlueprintName = "CortexV2-Emotiv-ObjC"
+               ReferencedContainer = "container:CortexV2-Emotiv-ObjC.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,7 +31,7 @@
       </Testables>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "HeadsetSession"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E93E86E223FF7AE500D3125D"
-            BuildableName = "CortexV2-Example-Swift.app"
-            BlueprintName = "CortexV2-Example-Swift"
-            ReferencedContainer = "container:CortexV2-Example-Swift.xcodeproj">
+            BlueprintIdentifier = "E99107B72403AE8F004F3892"
+            BuildableName = "CortexV2-Emotiv-ObjC.app"
+            BlueprintName = "CortexV2-Emotiv-ObjC"
+            ReferencedContainer = "container:CortexV2-Emotiv-ObjC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E93E86E223FF7AE500D3125D"
-            BuildableName = "CortexV2-Example-Swift.app"
-            BlueprintName = "CortexV2-Example-Swift"
-            ReferencedContainer = "container:CortexV2-Example-Swift.xcodeproj">
+            BlueprintIdentifier = "E99107B72403AE8F004F3892"
+            BuildableName = "CortexV2-Emotiv-ObjC.app"
+            BlueprintName = "CortexV2-Emotiv-ObjC"
+            ReferencedContainer = "container:CortexV2-Emotiv-ObjC.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
